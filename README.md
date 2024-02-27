@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rick1052
-- 👀 I’m interested in back-end developer
+- 👀 I'm interested in specializing as a back-end developer
 - 🌱 I'm currently learning mvc connection api with nodejs
 - 💞️ I’m looking to collaborate on back-end developer
 - 📫 How to reach me sant.gp.henrique@gmail.com
